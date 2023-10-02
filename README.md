@@ -7,7 +7,7 @@
 > … Maior que o temporal é a fé que habita em mim,
 Um vendaval de sonhos e realização,
 Maior que o temporal é a fé que habita em mim,
-Só vai sentar na mesa quem rachou o pão
+ Só vai sentar na mesa quem rachou o pão
 
 - 👀 Estou interessado em aprender e ensinar novas tecnologias para expandir a cultura Devops
 - 🌱 Atualmente sou estudante da EFG [(ESCOLA DO FUTURO DE GOIAS)](https://efg.org.br/fale-conosco-luiz-rassi)
