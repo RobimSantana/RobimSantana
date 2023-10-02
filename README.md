@@ -4,9 +4,9 @@
 
 ## *SIMPLESMENTE I*
 
-> … Maior que o temporal é a fé que habita em mim
-Um vendaval de sonho e realização,
-Maior que o temporal é a fé que habita em m
+> … Maior que o temporal é a fé que habita em mim,
+Um vendaval de sonhos e realização,
+Maior que o temporal é a fé que habita em mim,
 Só vai sentar na mesa quem rachou o pão
 
 - 👀 Estou interessado em aprender e ensinar novas tecnologias para expandir a cultura Devops
