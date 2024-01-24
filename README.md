@@ -19,6 +19,7 @@ Maior que o temporal é a fé que habita em mim,
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/robson89santana?igshid=NzZlODBkYWE4Ng==)
 - ## Liguagem de Programação que Estudo:
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 
