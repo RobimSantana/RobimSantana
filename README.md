@@ -35,6 +35,7 @@ Maior que o temporal é a fé que habita em mim,
 - **Extensão DEVOPS** 💻:<br>( Faço parte do Grupo de Extensão Devpos na Escola do Futuro Luiz Rassi)
 
 - **Professor de Logística** 👨🏻‍🏫:<br>( Faço parte do quadro de Doecentes do CEPI de GOIÁS, dando aulas de programação para o ensino médio)
+- **Hackanton**: <br>(Com participação em duas competições, eu mais minha equipe vencemos nas duas participações)
 
 <br>
 <br>
